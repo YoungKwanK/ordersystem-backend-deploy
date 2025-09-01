@@ -11,7 +11,7 @@ spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://xxxxxx:3306/ordersystem
-    username: admin
+    username: xxxxx
     password: xxxxx
   jpa:
     database: mysql
